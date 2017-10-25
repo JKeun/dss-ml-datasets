@@ -26,7 +26,7 @@ Lets play data analysis with machine learning !
 
 #### [6. Forest Cover Type Prediction](https://www.kaggle.com/c/forest-cover-type-prediction)
 - Use cartographic variables to classify forest categories
-![](https://github.com/JKeun/dss-ml-datasets/blob/master/images/forest_header.png?raw=true)
+![](https://github.com/JKeun/dss-ml-datasets/blob/master/images/forest_header.jpg?raw=true)
 
 #### [7. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - Start here! Predict survival on the Titanic and get familiar with ML basic
@@ -34,4 +34,4 @@ Lets play data analysis with machine learning !
 
 #### [8. Shelter Animal Outcomes](https://www.kaggle.com/c/shelter-animal-outcomes)
 - Help improve outcomes for shelter animals
-![](https://kaggle2.blob.core.windows.net/competitions/kaggle/5039/media/kaggle_pets2.png)
+![](https://github.com/JKeun/dss-ml-datasets/blob/master/images/shelter_header.png?raw=true)
